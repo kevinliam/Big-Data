@@ -1,2 +1,2 @@
-# Big-Data
-R code for Big Data class project
+# Miscellaneous
+Odds and ends, scripts and blips
